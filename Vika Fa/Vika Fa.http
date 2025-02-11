@@ -1,0 +1,6 @@
+@Vika_Fa_HostAddress = http://localhost:5145
+
+GET {{Vika_Fa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
